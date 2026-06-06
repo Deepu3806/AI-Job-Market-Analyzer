@@ -1,0 +1,81 @@
+Project Notes — Data Analyst Jobs Dataset
+
+Dataset Name : DataAnalyst.csv
+
+Basic Dataset Information
+| Column Name     | Purpose                  |
+| --------------- | ------------------------ |
+| Job Title       | Name of the role         |
+| Salary Estimate | Salary range for the job |
+| Company Name    | Hiring company           |
+| Location        | Job location             |
+| Industry        | Industry category        |
+| Sector          | Business sector          |
+| Rating          | Company rating           |
+| Headquarters    | Company headquarters     |
+| Size            | Company size             |
+| Founded         | Company founding year    |
+
+Key Observations
+1. Job Titles
+	The dataset contains multiple analyst-related roles such as:
+		-Data Analyst
+		-Junior Data Analyst
+		-Business Analyst
+		-Financial Analyst
+		-Marketing Analyst
+	This allows role-based analysis.
+2. Salary Information
+	The Salary Estimate column contains:
+		-Salary ranges
+		-Different formats
+		-Extra text symbols
+		-Example Problems
+		-Different salary formats
+		-Presence of symbols like $
+		-Some missing or invalid salary entries
+		-Cleaning Needed
+		-Remove symbols
+		-Standardize salary values
+		-Extract minimum and maximum salary
+3. Company Information
+	The dataset includes:
+		-Company names
+		-Company ratings
+		-Company size
+		-Industry and sector details
+	This can help analyze:
+		-Top hiring companies
+		-Industries hiring analysts
+		-Company ratings vs salaries
+4. Location Data
+	The Location column contains city/state information.
+		-Possible Analysis
+		-Top hiring cities
+		-Location-wise salary comparison
+		-Regional hiring trends
+		-Cleaning Needed
+		-Standardize location names
+		-Handle missing locations
+5. Missing Values
+	Some columns contain:
+		-Null values
+		-Incomplete information
+		-Placeholder values like -1
+		-Columns Likely Affected
+		-Salary Estimate
+		-Rating
+		-Competitors
+		-Easy Apply
+		-Cleaning Actions
+		-Replace invalid values
+		-Remove unnecessary columns if needed
+		-Fill or ignore missing data
+
+Dataset Quality Issues
+	Problems Found
+		- Unnamed index column present
+		- Salary column inconsistent
+		- Missing values in several columns
+		- Some columns contain placeholder values (-1)
+		- Extra text formatting in company names
