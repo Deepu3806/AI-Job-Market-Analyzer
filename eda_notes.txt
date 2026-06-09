@@ -1,0 +1,167 @@
+# Exploratory Data Analysis (EDA) Notes
+
+## Project Title
+
+AI-Powered Job Market & Skill Demand Analyzer
+
+---
+
+# Dataset Overview
+
+* Dataset Name: cleaned_data_analyst_jobs.xlsx
+* Total Rows: 2253
+* Total Columns: 15
+* Dataset Type: Job Market Dataset
+* Main Focus: Data Analyst Job Listings
+
+---
+
+# Important Columns Identified
+
+* Job Title
+* Salary Estimate
+* Company Name
+* Location
+* Industry
+* Sector
+* Rating
+* Revenue
+* Company Size
+* Headquarters
+
+---
+
+# Exploratory Questions & Findings
+
+## 1. Which job title appears most frequently?
+
+The dataset contains multiple analyst-related roles such as:
+
+* Data Analyst
+* Junior Data Analyst
+* Business Analyst
+* Quality Data Analyst
+* Financial Analyst
+
+Observation:
+Data Analyst-related roles dominate the dataset.
+
+---
+
+## 2. Which locations have the highest number of job openings?
+
+Frequently appearing locations include:
+
+* New York, NY
+* California-based cities
+* Chicago, IL
+* Washington, DC
+
+Observation:
+Major tech and business cities show higher hiring demand for analyst roles.
+
+---
+
+## 3. Which industries hire the most analysts?
+
+Common industries identified:
+
+* Technology
+* Health Care
+* Finance
+* Consulting
+* Non-Profit Organizations
+
+Observation:
+Technology and Health Care industries show strong analyst demand.
+
+---
+
+## 4. What salary trends are observed?
+
+The Salary Estimate column contains salary ranges such as:
+
+* 37–66
+* 60–90
+* 80–120
+
+Observations:
+
+* Salary ranges vary significantly across companies.
+* Higher-paying roles are generally associated with experienced positions and large organizations.
+
+---
+
+## 5. Which companies appear most frequently?
+
+Several companies appear multiple times in the dataset, indicating recurring hiring activity.
+
+Examples:
+
+* Healthcare organizations
+* Technology companies
+* Consulting firms
+
+Observation:
+Large organizations tend to recruit analysts continuously.
+
+---
+
+## 6. What patterns exist in company ratings?
+
+Company ratings generally range between:
+
+* 3.0 to 4.5
+
+Observation:
+Most companies maintain moderate to good ratings.
+
+---
+
+## 7. What data quality issues were identified?
+
+Problems Found:
+
+* Missing values
+* Duplicate records
+* Inconsistent salary formatting
+* Placeholder values such as "-1"
+* Unnecessary columns
+
+Observation:
+The dataset required extensive cleaning before analysis.
+
+---
+
+# Data Cleaning Performed
+
+The following preprocessing steps were completed using Python and Pandas:
+
+* Removed duplicate rows
+* Handled missing values
+* Removed unnecessary columns
+* Cleaned salary column formatting
+* Standardized company names
+* Processed location values
+
+---
+
+# Key Insights from EDA
+
+1. Data Analyst is one of the most frequently occurring job roles.
+2. Major cities show higher analyst hiring activity.
+3. Technology and Health Care sectors dominate analyst recruitment.
+4. Salary ranges differ significantly between companies and industries.
+5. Real-world datasets require significant preprocessing before visualization.
+
+---
+
+# Tools Used
+
+* Python
+* Pandas
+* Microsoft Excel
+* Visual Studio Code
+
+---
+

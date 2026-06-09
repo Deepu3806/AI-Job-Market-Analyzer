@@ -1,0 +1,106 @@
+# Documenting EDA Insights
+
+## Purpose of EDA
+
+The purpose of Exploratory Data Analysis (EDA) in this project is to understand patterns, trends, and relationships within the job market dataset before building dashboards and generating business insights.
+
+EDA helped identify:
+
+* Hiring trends
+* Salary patterns
+* Industry demand
+* Data quality issues
+* High-demand locations and roles
+
+---
+
+# Key EDA Insights
+
+## 1. High Demand for Data Analyst Roles
+
+The dataset shows that Data Analyst-related positions appear most frequently among job postings.
+
+Insight:
+Organizations across multiple industries are actively hiring data analysts, indicating strong market demand for analytical roles.
+
+---
+
+## 2. Major Cities Dominate Hiring
+
+Locations such as New York, California-based cities, Chicago, and Washington DC contain a large number of analyst job postings.
+
+Insight:
+Analyst opportunities are concentrated in major business and technology hubs.
+
+---
+
+## 3. Technology and Healthcare Industries Lead Recruitment
+
+Technology and Healthcare sectors appear repeatedly throughout the dataset.
+
+Insight:
+These industries rely heavily on data-driven decision-making and therefore show higher demand for analyst roles.
+
+---
+
+## 4. Salary Ranges Vary Across Companies
+
+Salary estimates differ significantly depending on:
+
+* Company
+* Location
+* Industry
+* Role seniority
+
+Insight:
+Experienced roles and large organizations tend to offer higher salaries.
+
+---
+
+## 5. Data Cleaning Was Essential
+
+The raw dataset contained:
+
+* Missing values
+* Duplicate records
+* Inconsistent salary formats
+* Placeholder values
+
+Insight:
+Real-world datasets require preprocessing before meaningful analysis and visualization can be performed.
+
+---
+
+## 6. Company Ratings Mostly Remain Moderate to High
+
+Most company ratings range between 3.0 and 4.5.
+
+Insight:
+Many organizations hiring analysts maintain relatively positive employee ratings.
+
+---
+
+# Business Understanding from EDA
+
+The EDA process demonstrates that:
+
+* Data analytics skills are highly relevant in today’s job market
+* Job opportunities are strongest in urban and tech-focused regions
+* Industry type strongly influences salary and hiring demand
+* Clean and structured data is critical for business intelligence reporting
+
+---
+
+# Importance of EDA in This Project
+
+EDA played a crucial role in:
+
+* Understanding dataset structure
+* Identifying data quality problems
+* Preparing data for Power BI dashboards
+* Discovering meaningful business insights
+* Supporting data-driven storytelling
+
+---
+
+
