@@ -81,31 +81,19 @@ The dataset includes job-related information such as:
 
 ---
 
-# 📁 Project Structure
+## Day 3 — Exploratory Data Analysis (EDA)
 
-AI_JOB_MARKET_ANALYZER/
+* Performed exploratory data analysis using Python and Pandas
+* Analyzed:
 
-├── cleaned_data/
-
-├── data/
-
-├── docs/
-
-├── powerbi/
-
-├── presentation/
-
-├── screenshots/
-
-├── sql/
-
-├── cleaning_script.py
-
-├── eda_analysis.py
-
-├── DataAnalyst.csv
-
-└── README.md
+  * Job roles
+  * Hiring locations
+  * Company ratings
+  * Industries
+  * Salary trends
+* Identified high-demand job locations and industries
+* Documented EDA findings and business insights
+* Prepared cleaned dataset for Power BI dashboard development
 
 ---
 
@@ -113,10 +101,20 @@ AI_JOB_MARKET_ANALYZER/
 
 ✅ Data Collection Completed
 ✅ Data Cleaning Completed
-⬜ Exploratory Data Analysis Completed
+✅ Exploratory Data Analysis Completed
 ⬜ Power BI Dashboard Development
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
+
+---
+
+# 📈 Key Insights from EDA
+
+* Data Analyst roles appear most frequently in the dataset
+* Major cities and technology hubs show higher hiring demand
+* Technology and Healthcare sectors contain strong analyst opportunities
+* Salary ranges vary significantly across companies and industries
+* Real-world datasets require extensive cleaning before analysis
 
 ---
 
@@ -136,6 +134,7 @@ Through this project, I am improving my skills in:
 
 * Data Cleaning
 * Data Analysis
+* Exploratory Data Analysis (EDA)
 * Python Programming
 * Pandas
 * Business Intelligence
