@@ -97,23 +97,40 @@ The dataset includes job-related information such as:
 
 ---
 
+## Day 4 — Visual Analysis & Data Visualization
+
+* Created visual charts using Python and Matplotlib
+* Generated bar charts for:
+
+  * Top job titles
+  * Top hiring locations
+* Performed graphical analysis on hiring trends
+* Documented visual insights and observations
+* Identified location-based hiring concentration and role demand patterns
+* Improved understanding of data storytelling and visual communication
+* Prepared visualization outputs for Power BI dashboard integration
+
+---
+
 # 🚀 Current Status
 
 ✅ Data Collection Completed
 ✅ Data Cleaning Completed
 ✅ Exploratory Data Analysis Completed
+✅ Visual Analysis Completed
 ⬜ Power BI Dashboard Development
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
 
 ---
 
-# 📈 Key Insights from EDA
+# 📈 Key Insights from EDA & Visual Analysis
 
 * Data Analyst roles appear most frequently in the dataset
 * Major cities and technology hubs show higher hiring demand
 * Technology and Healthcare sectors contain strong analyst opportunities
 * Salary ranges vary significantly across companies and industries
+* Visualizations helped identify trends and hiring patterns more effectively
 * Real-world datasets require extensive cleaning before analysis
 
 ---
@@ -147,4 +164,4 @@ Through this project, I am improving my skills in:
 # 🔗 Author
 
 Deepika
-Aspiring Data Analyst | Power BI Enthusiast | Learning Data Analytics Through Real-World Projects
+Aspiring Data Analyst | Learning Data Analytics Through Real-World Projects
