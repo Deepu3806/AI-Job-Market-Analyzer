@@ -1,0 +1,105 @@
+# Visual Insights Report
+
+# Purpose of Visual Analysis
+
+The purpose of this visual analysis is to identify trends, patterns, and business insights from the cleaned job market dataset using graphical representations.
+
+Charts and visualizations help simplify complex data and improve understanding of hiring trends, salary distribution, and location-based opportunities.
+
+---
+
+# Charts Created
+
+## 1. Top Job Titles Chart
+
+A bar chart was created to analyze the most frequently occurring job titles in the dataset.
+
+### Observations
+
+* Data Analyst roles appear most frequently.
+* Business Analyst and Financial Analyst positions are also common.
+* Entry-level analyst roles exist but appear less frequently compared to general analyst positions.
+
+### Insight
+
+Organizations across multiple industries are actively hiring analysts, indicating strong demand for analytical roles in the job market.
+
+---
+
+## 2. Top Hiring Locations Chart
+
+A bar chart was created to identify locations with the highest number of analyst job postings.
+
+### Observations
+
+* Major cities and technology hubs contain the highest concentration of analyst jobs.
+* Locations such as New York, California-based cities, Chicago, and Washington DC show strong hiring activity.
+
+### Insight
+
+Job opportunities for analysts are concentrated in business and technology-focused regions.
+
+---
+
+# Additional Visual Findings
+
+## Industry Hiring Trends
+
+Technology and Healthcare industries appear repeatedly throughout the dataset.
+
+### Insight
+
+These industries rely heavily on data-driven decision-making and therefore maintain high demand for analyst professionals.
+
+---
+
+## Salary Distribution Trends
+
+Salary ranges vary significantly across job roles and companies.
+
+### Insight
+
+Experienced roles and larger organizations generally offer higher salary packages.
+
+---
+
+## Company Hiring Patterns
+
+Several companies appear multiple times in the dataset.
+
+### Insight
+
+Large organizations and enterprise-level companies recruit analysts continuously throughout the year.
+
+---
+
+# Business Understanding from Visual Analysis
+
+The visual analysis demonstrates that:
+
+* Data analytics remains a high-demand career field.
+* Urban and technology-driven regions contain more analyst opportunities.
+* Salary and hiring demand vary based on company, industry, and location.
+* Visualization helps identify patterns more effectively than raw tables alone.
+
+---
+
+# Importance of Visualization in Data Analytics
+
+Visualization plays a critical role in:
+
+* Understanding large datasets
+* Identifying trends quickly
+* Supporting business decision-making
+* Communicating insights effectively
+* Building interactive dashboards in Power BI
+
+---
+
+# Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+* Visual Studio Code
+
