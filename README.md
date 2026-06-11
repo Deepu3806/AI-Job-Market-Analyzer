@@ -112,38 +112,61 @@ The dataset includes job-related information such as:
 
 ---
 
+## Day 5 — Power BI Dashboard Development
+
+* Imported the cleaned job market dataset into Power BI
+* Created KPI cards to track:
+
+  * Total Jobs
+  * Total Companies
+  * Total Locations
+  * Total Industries
+* Built interactive visualizations for:
+
+  * Top 10 Most In-Demand Data Analyst Roles
+  * Top Hiring Locations
+  * Industry-wise Job Distribution
+* Added slicers for:
+
+  * Location
+  * Industry
+  * Job Title
+* Developed the first version of an interactive Power BI dashboard
+* Enabled dynamic filtering where charts and KPIs update based on user selections
+* Learned dashboard design fundamentals and interactive reporting concepts
+
+---
+
 # 🚀 Current Status
 
 ✅ Data Collection Completed
 ✅ Data Cleaning Completed
 ✅ Exploratory Data Analysis Completed
 ✅ Visual Analysis Completed
-⬜ Power BI Dashboard Development
+✅ Power BI Dashboard Development (Phase 1) Completed
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
 
 ---
 
-# 📈 Key Insights from EDA & Visual Analysis
+# 📈 Key Insights from Dashboard Development
 
-* Data Analyst roles appear most frequently in the dataset
-* Major cities and technology hubs show higher hiring demand
-* Technology and Healthcare sectors contain strong analyst opportunities
-* Salary ranges vary significantly across companies and industries
-* Visualizations helped identify trends and hiring patterns more effectively
-* Real-world datasets require extensive cleaning before analysis
+* Data Analyst roles represent the highest demand among listed job positions
+* Hiring opportunities are concentrated in specific high-demand locations
+* Industry distribution reveals strong demand across multiple sectors
+* Interactive filtering enables focused analysis by location, industry, and role
+* KPI metrics provide a quick overview of the job market landscape
 
 ---
 
 # 📈 Future Improvements
 
-* Add advanced Power BI dashboards
-* Include salary forecasting analysis
-* Perform skill demand trend analysis
-* Add interactive filters and KPIs
-* Integrate additional job datasets
-
----
+* Build additional dashboard pages
+* Add salary trend analysis dashboards
+* Create company-wise hiring insights
+* Develop advanced Power BI visualizations
+* Add forecasting and trend analysis features
+* Enhance dashboard design and user experience
 
 # 📌 Key Learning Outcomes
 
