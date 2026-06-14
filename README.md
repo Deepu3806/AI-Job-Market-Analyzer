@@ -137,6 +137,44 @@ The dataset includes job-related information such as:
 
 ---
 
+# ✅ Week 2 Progress
+
+## Day 1 — Salary & Location Analysis Dashboard
+
+* Created the second Power BI dashboard page focused on salary analysis
+
+* Converted Salary Estimate into a numerical Average Salary metric
+
+* Created KPI cards to track:
+
+  * Average Salary Estimate
+  * Highest Salary Estimate
+  * Lowest Salary Estimate
+
+* Built interactive visualizations for:
+
+  * Top 10 Highest Paying Data Analyst Roles
+  * Average Salary Estimate by Location
+  * Average Salary Estimate by Industry
+
+* Added a donut chart for:
+
+  * Job Distribution by Industry
+
+* Added slicers for:
+
+  * Job Title
+  * Location
+  * Industry
+
+* Enhanced dashboard design with titles and improved visual layout
+
+* Generated salary and location-based business insights
+
+* Continued development of the interactive Power BI dashboard
+
+---
+
 # 🚀 Current Status
 
 ✅ Data Collection Completed
@@ -144,6 +182,7 @@ The dataset includes job-related information such as:
 ✅ Exploratory Data Analysis Completed
 ✅ Visual Analysis Completed
 ✅ Power BI Dashboard Development (Phase 1) Completed
+✅ Salary & Location Analysis Dashboard Completed
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
 
@@ -151,22 +190,25 @@ The dataset includes job-related information such as:
 
 # 📈 Key Insights from Dashboard Development
 
-* Data Analyst roles represent the highest demand among listed job positions
-* Hiring opportunities are concentrated in specific high-demand locations
-* Industry distribution reveals strong demand across multiple sectors
-* Interactive filtering enables focused analysis by location, industry, and role
-* KPI metrics provide a quick overview of the job market landscape
+* Salary estimates vary across job roles, industries, and locations
+* Major hiring locations tend to offer higher salary estimates
+* Certain industries provide more competitive compensation for data professionals
+* Salary-focused KPIs help identify compensation trends quickly
+* Multi-page dashboards improve business analysis and reporting capabilities
 
 ---
 
 # 📈 Future Improvements
 
-* Build additional dashboard pages
-* Add salary trend analysis dashboards
-* Create company-wise hiring insights
+* Build Industry & Company Insights dashboard
+* Create Skill Demand Analysis dashboard
+* Add company-wise hiring insights
 * Develop advanced Power BI visualizations
 * Add forecasting and trend analysis features
 * Enhance dashboard design and user experience
+* Create a final executive summary dashboard
+
+---
 
 # 📌 Key Learning Outcomes
 
