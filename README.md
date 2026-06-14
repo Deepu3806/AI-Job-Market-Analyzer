@@ -228,5 +228,4 @@ Through this project, I am improving my skills in:
 
 # 🔗 Author
 
-Deepika
-Aspiring Data Analyst | Learning Data Analytics Through Real-World Projects
+Deepika | Aspiring Data Analyst | Learning Data Analytics Through Real-World Projects
