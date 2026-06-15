@@ -175,14 +175,50 @@ The dataset includes job-related information such as:
 
 ---
 
+## Day 2 — Company & Industry Insights Dashboard
+
+* Created the third Power BI dashboard page focused on company and industry analysis
+
+* Created KPI cards to track:
+
+  * Total Companies
+  * Average Company Rating
+  * Total Industries
+
+* Built interactive visualizations for:
+
+  * Top Hiring Companies
+  * Jobs by Industry
+  * Top Rated Companies
+
+* Added a donut chart for:
+
+  * Company Size Distribution
+
+* Added slicers for:
+
+  * Company Name
+  * Industry
+  * Location
+
+* Generated company and industry-focused business insights
+
+* Analyzed hiring trends across companies, industries, and organization sizes
+
+* Continued development of the multi-page interactive Power BI dashboard
+
+---
+
 # 🚀 Current Status
 
 ✅ Data Collection Completed
 ✅ Data Cleaning Completed
 ✅ Exploratory Data Analysis Completed
 ✅ Visual Analysis Completed
-✅ Power BI Dashboard Development (Phase 1) Completed
+✅ Job Market Overview Dashboard Completed
 ✅ Salary & Location Analysis Dashboard Completed
+✅ Company & Industry Insights Dashboard Completed
+⬜ Skill Demand Analysis Dashboard
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
 
@@ -190,23 +226,23 @@ The dataset includes job-related information such as:
 
 # 📈 Key Insights from Dashboard Development
 
-* Salary estimates vary across job roles, industries, and locations
-* Major hiring locations tend to offer higher salary estimates
-* Certain industries provide more competitive compensation for data professionals
-* Salary-focused KPIs help identify compensation trends quickly
-* Multi-page dashboards improve business analysis and reporting capabilities
+* Leading companies contribute a significant portion of job opportunities
+* Industry demand varies considerably across sectors
+* Company ratings provide additional context for evaluating employers
+* Organization size influences hiring volume and market presence
+* Dashboard-driven analysis enables faster identification of hiring patterns
 
 ---
 
 # 📈 Future Improvements
 
-* Build Industry & Company Insights dashboard
 * Create Skill Demand Analysis dashboard
-* Add company-wise hiring insights
-* Develop advanced Power BI visualizations
+* Build an Executive Summary dashboard
+* Add advanced Power BI visualizations
+* Develop company-wise hiring insights
+* Perform skill demand trend analysis
 * Add forecasting and trend analysis features
 * Enhance dashboard design and user experience
-* Create a final executive summary dashboard
 
 ---
 
