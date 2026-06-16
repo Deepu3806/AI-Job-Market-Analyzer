@@ -209,6 +209,41 @@ The dataset includes job-related information such as:
 
 ---
 
+## Day 3 — Executive Summary Dashboard
+
+* Created the fourth Power BI dashboard page focused on executive-level insights
+
+* Created KPI cards to track:
+
+  * Total Jobs
+  * Total Companies
+  * Average Salary Estimate
+  * Total Industries
+
+* Built interactive visualizations for:
+
+  * Top Hiring Locations
+  * Top Hiring Industries
+  * Top Hiring Companies
+
+* Added a donut chart for:
+
+  * Job Distribution by Industry
+
+* Added slicers for:
+
+  * Location
+  * Industry
+  * Job Title
+
+* Created a Key Insights section summarizing major findings from previous dashboard pages
+
+* Consolidated hiring, salary, company, and industry insights into a single dashboard
+
+* Continued development of the multi-page interactive Power BI dashboard
+
+---
+
 # 🚀 Current Status
 
 ✅ Data Collection Completed
@@ -218,7 +253,7 @@ The dataset includes job-related information such as:
 ✅ Job Market Overview Dashboard Completed
 ✅ Salary & Location Analysis Dashboard Completed
 ✅ Company & Industry Insights Dashboard Completed
-⬜ Executive Summary Dashboard
+✅ Executive Summary Dashboard Completed
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
 
@@ -226,23 +261,22 @@ The dataset includes job-related information such as:
 
 # 📈 Key Insights from Dashboard Development
 
-* Leading companies contribute a significant portion of job opportunities
-* Industry demand varies considerably across sectors
-* Company ratings provide additional context for evaluating employers
-* Organization size influences hiring volume and market presence
-* Dashboard-driven analysis enables faster identification of hiring patterns
+* Executive dashboards provide a consolidated view of job market trends
+* Hiring demand is concentrated among specific industries and locations
+* Salary analysis highlights significant compensation differences across roles
+* Company and industry insights help identify key employment opportunities
+* KPI-driven dashboards support faster business decision-making
 
 ---
 
 # 📈 Future Improvements
 
-* Build an Executive Summary dashboard
 * Add advanced Power BI visualizations
 * Develop company-wise hiring insights
-* Perform skill demand trend analysis
-* Add forecasting and trend analysis features
+* Perform deeper trend and comparative analysis
+* Add forecasting and predictive analytics features
 * Enhance dashboard design and user experience
-
+* Create a final project presentation and documentation
 ---
 
 # 📌 Key Learning Outcomes
