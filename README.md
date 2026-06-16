@@ -218,7 +218,7 @@ The dataset includes job-related information such as:
 ✅ Job Market Overview Dashboard Completed
 ✅ Salary & Location Analysis Dashboard Completed
 ✅ Company & Industry Insights Dashboard Completed
-⬜ Skill Demand Analysis Dashboard
+⬜ Executive Summary Dashboard
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
 
@@ -236,7 +236,6 @@ The dataset includes job-related information such as:
 
 # 📈 Future Improvements
 
-* Create Skill Demand Analysis dashboard
 * Build an Executive Summary dashboard
 * Add advanced Power BI visualizations
 * Develop company-wise hiring insights
