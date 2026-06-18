@@ -244,6 +244,36 @@ The dataset includes job-related information such as:
 
 ---
 
+## Day 4 — Dashboard Navigation & Theme Design
+
+* Created a professional Home Page for the Power BI dashboard
+
+* Designed a dashboard navigation system using interactive buttons
+
+* Added navigation links to:
+
+  * Job Market Overview
+  * Salary & Location Analysis
+  * Company & Industry Insights
+  * Executive Summary
+  * Business Insights
+
+* Developed a consistent dashboard theme using a modern color palette
+
+* Customized dashboard backgrounds, buttons, and visual styling
+
+* Improved dashboard user experience through better layout organization
+
+* Enhanced dashboard appearance with professional design elements
+
+* Added dashboard title, subtitle, and branding components
+
+* Optimized navigation flow between multiple dashboard pages
+
+* Continued development of the interactive multi-page Power BI dashboard
+
+---
+
 # 🚀 Current Status
 
 ✅ Data Collection Completed
@@ -254,6 +284,7 @@ The dataset includes job-related information such as:
 ✅ Salary & Location Analysis Dashboard Completed
 ✅ Company & Industry Insights Dashboard Completed
 ✅ Executive Summary Dashboard Completed
+✅ Dashboard Navigation & Theme Design Completed
 ⬜ Advanced Insights Generation
 ⬜ Final Presentation & Documentation
 
@@ -266,17 +297,18 @@ The dataset includes job-related information such as:
 * Salary analysis highlights significant compensation differences across roles
 * Company and industry insights help identify key employment opportunities
 * KPI-driven dashboards support faster business decision-making
+* Professional dashboard navigation improves usability and user experience
 
 ---
 
 # 📈 Future Improvements
 
-* Add advanced Power BI visualizations
-* Develop company-wise hiring insights
-* Perform deeper trend and comparative analysis
+* Create advanced business insights dashboard
 * Add forecasting and predictive analytics features
-* Enhance dashboard design and user experience
-* Create a final project presentation and documentation
+* Publish dashboard to Power BI Service
+* Create final project presentation and documentation
+* Enhance interactivity and storytelling features
+
 ---
 
 # 📌 Key Learning Outcomes
